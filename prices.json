@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T12:00:27",
-  "last_updated_str": "Monday, 20 April 2026 at 12:00 PM",
+  "last_updated": "2026-04-20T16:00:30",
+  "last_updated_str": "Monday, 20 April 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -59,10 +59,10 @@
     {
       "name": "Ampol Tamborine",
       "fuels": {
-        "91": 229.9,
+        "91": 209.9,
         "95": null,
         "98": null,
-        "diesel": 326.9
+        "diesel": 304.9
       }
     },
     {
@@ -89,7 +89,7 @@
         "91": null,
         "95": 221.9,
         "98": 230.9,
-        "diesel": 299.9
+        "diesel": 295.9
       }
     }
   ]
