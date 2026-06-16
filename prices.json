@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T12:00:51",
-  "last_updated_str": "Tuesday, 16 June 2026 at 12:00 PM",
+  "last_updated": "2026-06-16T16:00:53",
+  "last_updated_str": "Tuesday, 16 June 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -17,7 +17,7 @@
         "91": 171.9,
         "95": null,
         "98": 198.9,
-        "diesel": 203.9
+        "diesel": 205.9
       }
     },
     {
@@ -26,34 +26,34 @@
         "91": 169.9,
         "95": 187.4,
         "98": 196.9,
-        "diesel": 209.4
+        "diesel": 205.4
       }
     },
     {
       "name": "Ampol Yarrabilba",
       "fuels": {
-        "91": 171.9,
-        "95": 188.9,
-        "98": 198.9,
-        "diesel": 209.9
+        "91": 170.9,
+        "95": 187.9,
+        "98": 197.9,
+        "diesel": 205.9
       }
     },
     {
       "name": "Ampol Yarrabilba South",
       "fuels": {
-        "91": 171.9,
-        "95": 188.9,
-        "98": 198.9,
-        "diesel": 209.9
+        "91": 170.9,
+        "95": 187.9,
+        "98": 197.9,
+        "diesel": 205.9
       }
     },
     {
       "name": "Shell Tamborine",
       "fuels": {
-        "91": 176.9,
+        "91": 173.9,
         "95": null,
-        "98": 202.9,
-        "diesel": 209.9
+        "98": 199.9,
+        "diesel": 205.9
       }
     },
     {
@@ -68,10 +68,10 @@
     {
       "name": "United Loganlea",
       "fuels": {
-        "91": 165.9,
+        "91": 164.9,
         "95": null,
-        "98": 188.9,
-        "diesel": 203.9
+        "98": 187.9,
+        "diesel": 199.9
       }
     },
     {
@@ -87,9 +87,9 @@
       "name": "BP Waterford",
       "fuels": {
         "91": null,
-        "95": 179.9,
-        "98": 188.9,
-        "diesel": 203.9
+        "95": 177.9,
+        "98": 186.9,
+        "diesel": 199.9
       }
     }
   ]
