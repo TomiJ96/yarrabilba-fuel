@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T12:00:44",
-  "last_updated_str": "Thursday, 23 July 2026 at 12:00 PM",
+  "last_updated": "2026-07-23T16:00:51",
+  "last_updated_str": "Thursday, 23 July 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -8,16 +8,16 @@
         "91": 195.9,
         "95": 212.9,
         "98": 221.9,
-        "diesel": 221.9
+        "diesel": 223.9
       }
     },
     {
       "name": "BP Logan Village",
       "fuels": {
-        "91": 187.7,
+        "91": 195.5,
         "95": null,
-        "98": 212.4,
-        "diesel": 219.9
+        "98": 215.3,
+        "diesel": 228.6
       }
     },
     {
@@ -80,16 +80,16 @@
         "91": 179.9,
         "95": 196.9,
         "98": 205.9,
-        "diesel": 225.9
+        "diesel": 223.9
       }
     },
     {
       "name": "BP Waterford",
       "fuels": {
         "91": null,
-        "95": 205.9,
-        "98": 214.9,
-        "diesel": 235.9
+        "95": 203.9,
+        "98": 212.9,
+        "diesel": 233.9
       }
     }
   ]
