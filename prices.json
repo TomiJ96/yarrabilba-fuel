@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T12:00:48",
-  "last_updated_str": "Monday, 03 August 2026 at 12:00 PM",
+  "last_updated": "2026-08-03T16:01:08",
+  "last_updated_str": "Monday, 03 August 2026 at 04:01 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -14,10 +14,10 @@
     {
       "name": "BP Logan Village",
       "fuels": {
-        "91": 199.9,
+        "91": 218.8,
         "95": null,
-        "98": 225.5,
-        "diesel": 233.3
+        "98": 239.9,
+        "diesel": 249.9
       }
     },
     {
@@ -50,10 +50,10 @@
     {
       "name": "Shell Tamborine",
       "fuels": {
-        "91": 197.9,
+        "91": 202.9,
         "95": null,
-        "98": 223.9,
-        "diesel": 235.9
+        "98": 228.9,
+        "diesel": 249.9
       }
     },
     {
