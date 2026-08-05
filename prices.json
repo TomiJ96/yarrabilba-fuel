@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T12:00:54",
-  "last_updated_str": "Wednesday, 05 August 2026 at 12:00 PM",
+  "last_updated": "2026-08-05T16:00:49",
+  "last_updated_str": "Wednesday, 05 August 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -8,7 +8,7 @@
         "91": 219.9,
         "95": 236.9,
         "98": 245.9,
-        "diesel": 249.9
+        "diesel": 252.9
       }
     },
     {
@@ -17,7 +17,7 @@
         "91": 209.9,
         "95": null,
         "98": 235.5,
-        "diesel": 249.9
+        "diesel": 250.0
       }
     },
     {
@@ -59,28 +59,28 @@
     {
       "name": "Ampol Tamborine",
       "fuels": {
-        "91": 208.9,
+        "91": 212.9,
         "95": null,
         "98": null,
-        "diesel": 249.9
+        "diesel": 252.9
       }
     },
     {
       "name": "United Loganlea",
       "fuels": {
-        "91": 208.9,
+        "91": 209.9,
         "95": null,
-        "98": 231.9,
-        "diesel": 249.9
+        "98": 232.9,
+        "diesel": 252.9
       }
     },
     {
       "name": "7-Eleven Loganlea",
       "fuels": {
-        "91": 208.9,
-        "95": 225.9,
-        "98": 234.9,
-        "diesel": 249.9
+        "91": 211.9,
+        "95": 228.9,
+        "98": 237.9,
+        "diesel": 255.9
       }
     },
     {
