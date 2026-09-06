@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T08:00:38",
-  "last_updated_str": "Sunday, 06 September 2026 at 08:00 AM",
+  "last_updated": "2026-09-06T12:00:38",
+  "last_updated_str": "Sunday, 06 September 2026 at 12:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -23,9 +23,9 @@
     {
       "name": "Shell Logan Village",
       "fuels": {
-        "91": 209.9,
-        "95": 225.9,
-        "98": 234.9,
+        "91": 211.9,
+        "95": 227.9,
+        "98": 236.9,
         "diesel": 258.9
       }
     },
@@ -50,9 +50,9 @@
     {
       "name": "Shell Tamborine",
       "fuels": {
-        "91": 209.9,
+        "91": 214.9,
         "95": null,
-        "98": 239.9,
+        "98": 244.9,
         "diesel": 254.9
       }
     },
@@ -68,9 +68,9 @@
     {
       "name": "United Loganlea",
       "fuels": {
-        "91": 209.9,
+        "91": 212.9,
         "95": null,
-        "98": 232.9,
+        "98": 235.9,
         "diesel": 261.9
       }
     },
