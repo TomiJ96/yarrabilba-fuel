@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T12:00:39",
-  "last_updated_str": "Friday, 11 September 2026 at 12:00 PM",
+  "last_updated": "2026-09-11T16:00:40",
+  "last_updated_str": "Friday, 11 September 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -14,10 +14,10 @@
     {
       "name": "BP Logan Village",
       "fuels": {
-        "91": 217.9,
+        "91": 219.9,
         "95": null,
-        "98": 247.9,
-        "diesel": 262.9
+        "98": 249.9,
+        "diesel": 263.9
       }
     },
     {
@@ -41,9 +41,9 @@
     {
       "name": "Ampol Yarrabilba South",
       "fuels": {
-        "91": 217.9,
-        "95": 234.9,
-        "98": 244.9,
+        "91": 218.9,
+        "95": 235.9,
+        "98": 245.9,
         "diesel": 272.9
       }
     },
