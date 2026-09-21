@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T12:00:44",
-  "last_updated_str": "Monday, 21 September 2026 at 12:00 PM",
+  "last_updated": "2026-09-21T16:00:41",
+  "last_updated_str": "Monday, 21 September 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -14,18 +14,18 @@
     {
       "name": "BP Logan Village",
       "fuels": {
-        "91": 236.9,
+        "91": 239.9,
         "95": null,
-        "98": 262.7,
-        "diesel": 287.9
+        "98": 264.9,
+        "diesel": 289.9
       }
     },
     {
       "name": "Shell Logan Village",
       "fuels": {
-        "91": 243.9,
-        "95": 259.9,
-        "98": 268.9,
+        "91": 244.9,
+        "95": 260.9,
+        "98": 269.9,
         "diesel": 293.9
       }
     },
@@ -77,9 +77,9 @@
     {
       "name": "7-Eleven Loganlea",
       "fuels": {
-        "91": 244.9,
-        "95": 261.9,
-        "98": 270.9,
+        "91": 245.9,
+        "95": 262.9,
+        "98": 271.9,
         "diesel": 299.9
       }
     },
