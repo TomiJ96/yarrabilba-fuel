@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-26T00:00:51",
-  "last_updated_str": "Saturday, 26 September 2026 at 12:00 AM",
+  "last_updated": "2026-09-26T04:00:55",
+  "last_updated_str": "Saturday, 26 September 2026 at 04:00 AM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
       "fuels": {
-        "91": 235.9,
-        "95": 252.9,
-        "98": 261.9,
+        "91": 239.9,
+        "95": 256.9,
+        "98": 265.9,
         "diesel": 289.9
       }
     },
