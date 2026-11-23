@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T12:00:45",
-  "last_updated_str": "Monday, 23 November 2026 at 12:00 PM",
+  "last_updated": "2026-11-23T16:00:49",
+  "last_updated_str": "Monday, 23 November 2026 at 04:00 PM",
   "stations": [
     {
       "name": "7-Eleven Logan Village",
@@ -32,19 +32,19 @@
     {
       "name": "Ampol Yarrabilba",
       "fuels": {
-        "91": 225.9,
-        "95": 242.9,
-        "98": 252.9,
-        "diesel": 279.9
+        "91": 213.9,
+        "95": 230.9,
+        "98": 240.9,
+        "diesel": 277.9
       }
     },
     {
       "name": "Ampol Yarrabilba South",
       "fuels": {
-        "91": 225.9,
-        "95": 242.9,
-        "98": 252.9,
-        "diesel": 279.9
+        "91": 213.9,
+        "95": 230.9,
+        "98": 240.9,
+        "diesel": 277.9
       }
     },
     {
@@ -68,9 +68,9 @@
     {
       "name": "United Loganlea",
       "fuels": {
-        "91": 201.9,
+        "91": 207.9,
         "95": null,
-        "98": 224.9,
+        "98": 230.9,
         "diesel": 273.9
       }
     },
@@ -89,7 +89,7 @@
         "91": null,
         "95": 214.9,
         "98": 223.9,
-        "diesel": 269.9
+        "diesel": 268.9
       }
     }
   ]
